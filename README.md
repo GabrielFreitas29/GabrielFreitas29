@@ -29,4 +29,9 @@
 ### Studying in this moment:
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielFreitas29}/count.svg" /></p> 
+<br></div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d4d4d&height=120&section=footer"/>
