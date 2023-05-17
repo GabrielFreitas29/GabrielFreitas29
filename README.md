@@ -28,6 +28,9 @@
   
 ### Studying in this moment:
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
